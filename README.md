@@ -17,3 +17,4 @@
 - VERACITY: The Data set is pretty clean and not messy. The data seems to be trustworthy. The quality and accuracy of the data is quite up to the mark.
 
 - VALUE: This dataset offers some incredible opportunities for assumption examination and other content related prescient models. The general objective is to make a model that can recognize the assortment, winery, and area of a wine dependent on a portrayal.
+[Link to our dataset](https://www.kaggle.com/zynicide/wine-reviews)
