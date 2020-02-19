@@ -22,4 +22,6 @@
 ## Question
 - Bhavani Pathuri For each country, find the average price of wine.
 - For each country, find th maximum price of wine
+- For each country,find the minimum price of wine
+- for each country, find the
 
