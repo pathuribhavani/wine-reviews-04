@@ -1,0 +1,5 @@
+﻿US          	  13	Michigan	       Lake Michigan Shore
+US				  65	Oregon	               Willamette Valley
+Spain	     	  15	Northern Spain	       Navarra
+Italy		 	  16	Sicily & Sardinia      Vittoria
+France		      9	     Beaujolais	           Beaujolais
