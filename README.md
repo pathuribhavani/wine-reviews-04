@@ -19,4 +19,7 @@
 - VALUE: This dataset offers some incredible opportunities for assumption examination and other content related prescient models. The general objective is to make a model that can recognize the assortment, winery, and area of a wine dependent on a portrayal.
 
 [Link to our dataset](https://www.kaggle.com/zynicide/wine-reviews)
+## Question
+- For each country, find the average price of wine.
+- For each country, find th maximum price of wine
 
