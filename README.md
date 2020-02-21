@@ -26,14 +26,14 @@
 - For each country, find the average price of wine.
 ## Answer: 
 ## Mapper
-![Mapper Code](https://github.com/pathuribhavani/wine-reviews-04/blob/master/Screenshot%20(77).png)
-![Mapper Output](https://github.com/pathuribhavani/wine-reviews-04/blob/master/Screenshot%20(78).png)
+![Mapper Code](https://github.com/pathuribhavani/wine-reviews-04/blob/master/Screenshot%20(77).png "Mapper Code")
+![Mapper Output](https://github.com/pathuribhavani/wine-reviews-04/blob/master/Screenshot%20(78).png "Output")
 ## SortShuffle Code
-![Sortshuffle Code](https://github.com/pathuribhavani/wine-reviews-04/blob/master/Screenshot%20(79).png)
-![Sortshuffle Output](https://github.com/pathuribhavani/wine-reviews-04/blob/master/Screenshot%20(80).png)
+![Sortshuffle Code](https://github.com/pathuribhavani/wine-reviews-04/blob/master/Screenshot%20(79).png "Sortshuffle Code")
+![Sortshuffle Output](https://github.com/pathuribhavani/wine-reviews-04/blob/master/Screenshot%20(80).png "Output")
 ## Reducer
-![Reducer Code](https://github.com/pathuribhavani/wine-reviews-04/blob/master/Screenshot%20(81).png)
-![Reducer Output](https://github.com/pathuribhavani/wine-reviews-04/blob/master/Screenshot%20(72).png)
+![Reducer Code](https://github.com/pathuribhavani/wine-reviews-04/blob/master/Screenshot%20(81).png "Reducer Code")
+![Reducer Output](https://github.com/pathuribhavani/wine-reviews-04/blob/master/Screenshot%20(82).png "Output")
 
    
     
