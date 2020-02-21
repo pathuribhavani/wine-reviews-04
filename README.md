@@ -26,7 +26,7 @@
 - For each country, find the average price of wine.
 ## Answer: 
 ## Reducer
-![Image description](C:\Users\s534867\Pictures\Screenshots)
+![Image description](images/Screenshot(77).png)
    
     
 - For each country, find th maximum price of wine
