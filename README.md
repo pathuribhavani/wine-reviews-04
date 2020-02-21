@@ -5,6 +5,9 @@
 - Chitralekha Chikku
 - Nithya Vudayamarri
 - Manasa Goriparthi
+## Links
+- [Repository Link]:(https://github.com/pathuribhavani/wine-reviews-04)
+- [IssuseTracker]: (https://github.com/pathuribhavani/wine-reviews-04/issues)
 ## Introduction
 - The wine review Dataset has 130K wine reviews with variety, location, winery, price, and description. The source of this dataset is by Zackthoutt (where his idea was by a documentary on master sommeliers). This Dataset offers some great oppurtunities for sentimental analysis and other text related predictive models.
 ## Data Source
@@ -21,6 +24,11 @@
 [Link to our dataset](https://www.kaggle.com/zynicide/wine-reviews)
 ## Question
 - For each country, find the average price of wine.
+## Answer: 
+## Reducer
+![Image description](C:\Users\s534867\Pictures\Screenshots)
+   
+    
 - For each country, find th maximum price of wine
 - For each country, find the minimum price of wine
 - for each country, find the count of records.
