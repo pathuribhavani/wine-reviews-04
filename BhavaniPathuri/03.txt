@@ -1,0 +1,11 @@
+Argentina	16.4
+Australia	18.0
+Bulgaria	7.5
+France	50.23809523809524
+Israel	12.5
+Italy	54.7
+New Zealand	28.5
+Portugal	11.285714285714286
+South Africa	10.0
+Spain	64.3076923076923
+US	52.65384615384615

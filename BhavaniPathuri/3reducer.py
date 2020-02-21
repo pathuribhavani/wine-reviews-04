@@ -6,15 +6,15 @@ thisValue = 0.0
 
 for line in s:
   data = line.strip().split('\t')
-  price , amount = data
+  country, amount = data
 
-  if store != thisKey:
+  if country != thisKey:
     if thisKey:
       # output the last key value pair result
       r.write(thisKey + '\t' + str(thisValue/count)+'\n')
 
     # start over when changing keys
-    thisKey = province 
+    thisKey = country
     thisValue = 0.0
     count=1
   
